@@ -1,7 +1,3 @@
-#CMPE365
-#Final Project: Solitaire Autostart problem
-#Hojun Lee
-#20008154
 
 #imports
 import random
